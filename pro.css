@@ -33,7 +33,7 @@ A {
 #nav_search_bar_div {
     display: inline-block;
     width: 300px;
-    height: 39px;
+    height: 30px;
     padding-left: 15px;
     padding-bottom: 15px;
     position: relative;
@@ -50,7 +50,11 @@ A {
 #Search_bar {
     display: inline-block;
     width: 200px;
-    height: 40px;
+    /* height: 40px; */
+    margin-left: 5px;
+    /* margin-bottom: 45px; */
+    position: relative;
+    bottom: 7px;
     border-style: none;
     font-size: medium;
     outline: none;
@@ -62,7 +66,7 @@ A {
 
     display: inline-block;
     position: relative;
-    top: 10px;
+    top: 5px;
     left: 47px;
     width: 35px;
     height: 35px;
